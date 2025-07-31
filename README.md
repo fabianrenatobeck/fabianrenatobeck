@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Fabian Beck
-- 👀 I’m interested in Gaming, Coding and Creating new things
-- 🌱 I’m currently learning diffrent ways of coding
-- 💞️ I’m looking to collaborate on all kind of projects to learn more about the world of application development
-- 📫 How to reach me: fabian.beck@stud.kbw.ch
+## 👋 Hi, I’m Fabian Beck
+
+🎮 Passionate about **Gaming**, **Coding**, and bringing creative ideas to life  
+🌱 Currently exploring **different programming paradigms** and technologies  
+🤝 Eager to **collaborate on diverse projects** to deepen my skills in application development  
+📫 Reach me anytime at: **fabian.beck@stud.kbw.ch**  
+🚀 Always ready to learn, build, and grow!
 
 <!---
 fabianrenatobeck/fabianrenatobeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
