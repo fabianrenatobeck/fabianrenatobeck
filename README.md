@@ -22,7 +22,7 @@
 
 | Project | Description | Repository |
 |--------:|-------------|------------|
-| **Drinks Shop** | Ein Web-Shop für Getränke – mit Warenkorb, Produktfilterung und administrativem Backend. | [GitHub Repository](https://github.com/fabianrenatobeck/Drinks_Shop) |
+| **Drinks Shop** | Eine mit React und JSX entwickelte Web-App, die einen Online-Drinkshop mit Produktdarstellung, Warenkorb, Checkout und rechtlichen Seiten abbildet und mit React Hooks, Router und PropTypes technisch umgesetzt ist. | [GitHub Repository](https://github.com/fabianrenatobeck/Drinks_Shop) |
 | **Militärische Aspekte** | Analyse-Tool / Präsentation zu militärischen Aspekten in einem bestimmten Kontext. | [GitHub Repository](https://github.com/fabianrenatobeck/Militaerische-Aspekte) |
 
 
