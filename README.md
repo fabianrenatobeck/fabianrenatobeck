@@ -22,6 +22,7 @@
 
 | Project | Description | Repository |
 |--------:|-------------|------------|
+| **Wavestone Todo** | Eine Web-Applikation zur Aufgabenverwaltung (To-Do Liste), die volle CRUD-Funktionalität (Erstellen, Lesen, Aktualisieren, Löschen) bietet. Das Projekt demonstriert saubere Komponenten-Architektur, State-Management und interaktives UI-Design im Kontext einer Coding-Challenge. | [GitHub Repository](https://github.com/fabianrenatobeck/Wavestone-Todo) |
 | **Drinks Shop** | Eine mit React und JSX entwickelte Web-App, die einen Online-Drinkshop mit Produktdarstellung, Warenkorb, Checkout und rechtlichen Seiten abbildet und mit React Hooks, Router und PropTypes technisch umgesetzt ist. | [GitHub Repository](https://github.com/fabianrenatobeck/Drinks_Shop) |
 | **Militärische Aspekte** | Analyse-Tool / Präsentation zu militärischen Aspekten in einem bestimmten Kontext. | [GitHub Repository](https://github.com/fabianrenatobeck/Militaerische-Aspekte) |
 
